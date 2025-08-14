@@ -1,35 +1,33 @@
+# 📚 Library Management System
 
-# 1. Project Introduction
+A simple Java-based application for managing books in a library.  
+It supports adding, borrowing, returning, and listing books.  
+Built with Java 24 and designed to be extendable for future enhancements.
 
-Start with a brief overview—what the project does, its purpose, and the target users.
-Example:
+---
 
-A console-based Java application to manage library operations like adding, borrowing, and returning books.
+## 🚀 Features
+- ➕ **Add Books** – Store book details like title, author, and unique ID
+- 📖 **Borrow Books** – Track borrowed books and their availability
+- 🔄 **Return Books** – Update the status of returned books
+- 📋 **View Books** – Display the full list of books in the library
+- 🛠 **Easily Extendable** – Can be upgraded with GUI or database support
 
-2. Functionality & Features
+---
 
-List core features your system supports, for instance:
+## 🛠 Tech Stack
+- **Java 24** (Preview Features Enabled)
+- IntelliJ IDEA / Eclipse (Recommended IDEs)
+- Standard Java Libraries (No external dependencies unless added)
 
-Add, search, borrow, and return books
+---
 
-Manage book inventory and availability
-
-User authentication (if applicable)
-
-Reporting or logs (if implemented)
-
-3. Tech Stack & Dependencies
-
-Outline the tools and frameworks in use, including:
-
-Java version (e.g., JDK 24 with preview features)
-
-Build tools like Maven or Gradle (if used)
-
-Any libraries (e.g., JDBC for database, JavaFX for GUI)
-
-4. Setup & Installation
-
-Provide step-by-step instructions:
-
-Cloning the repo:
+## 📂 Project Structure
+Library-Management/
+│
+├── src/com/library/
+│ ├── LibraryManagement.java # Main class
+│ ├── Book.java # Book entity class
+│ └── User.java # User entity class (if applicable)
+│
+└── out/ # Compiled .class files
