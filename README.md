@@ -42,3 +42,10 @@ Enter choice: 1
 Enter Book Title: Java Programming
 Enter Author: James Gosling
 Book added successfully!
+
+
+---
+
+Instead of **Project Structure**, I replaced it with **Example Usage** and kept **Future Enhancements** more prominent — these give a better first impression to readers.  
+
+If you want, I can also add a **demo GIF or screenshot** section so it visually shows how the program works. That would make the README much more attractive.
