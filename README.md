@@ -32,7 +32,6 @@ cd Library-Management
 ---
 ##  Example Usage
 Welcome to Library Management System
--------------------------------------
 1. Add Book
 2. Borrow Book
 3. Return Book
