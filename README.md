@@ -43,7 +43,13 @@ Enter Book Title: Java Programming
 Enter Author: James Gosling
 Book added successfully!
 
+---
+## 🔮 Future Enhancements
 
+- 🖥 **GUI Version** – Implement a graphical user interface using JavaFX or Swing.
+- 💾 **Database Integration** – Store and manage books in MySQL, SQLite, or PostgreSQL.
+- 🔍 **Advanced Search** – Add filters for title, author, or category.
+- 
 ---
 
 Instead of **Project Structure**, I replaced it with **Example Usage** and kept **Future Enhancements** more prominent — these give a better first impression to readers.  
