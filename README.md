@@ -22,16 +22,11 @@ Built with Java 24 and designed to be extendable for future enhancements.
 
 ---
 
-## 📂 Project Structure
-Library-Management/
-│
-├── src/
-│   └── com/
-│       └── library/
-│           ├── LibraryManagement.java   # Main class
-│           ├── Book.java                 # Book entity class
-│           └── User.java                 # User entity class (if applicable)
-│
-├── out/                                  # Compiled .class files (generated after build)
-├── README.md                             # Project documentation
-└── LICENSE                               # License file
+## 📥 Installation & Setup
+
+### 1️⃣ Clone the Repository
+```bash
+git clone https://github.com/dhirajj2104/Library-Management.git
+cd Library-Management
+
+## 📸 Example Usage
