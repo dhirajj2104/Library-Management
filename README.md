@@ -28,5 +28,18 @@ Built with Java 24 and designed to be extendable for future enhancements.
 ```bash
 git clone https://github.com/dhirajj2104/Library-Management.git
 cd Library-Management
+```
+---
+##  Example Usage
+Welcome to Library Management System
+-------------------------------------
+1. Add Book
+2. Borrow Book
+3. Return Book
+4. List Books
+5. Exit
 
-## 📸 Example Usage
+Enter choice: 1
+Enter Book Title: Java Programming
+Enter Author: James Gosling
+Book added successfully!
