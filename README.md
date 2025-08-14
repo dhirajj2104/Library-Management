@@ -33,7 +33,5 @@ Library-Management/
 │           └── User.java                 # User entity class (if applicable)
 │
 ├── out/                                  # Compiled .class files (generated after build)
-│
 ├── README.md                             # Project documentation
 └── LICENSE                               # License file
-
